@@ -21,7 +21,7 @@ void main()
 graphics();
 setcolor(3);
 settextstyle(7,0,5);
-outtextxy(150,150,"Dzaka Prastiya");
+outtextxy(150,150,"Naufal Kesuma");
 delay(50);
 while(!kbhit())
 {
